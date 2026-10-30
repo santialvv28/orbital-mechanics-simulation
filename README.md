@@ -2,7 +2,7 @@
 
 MATLAB-based orbital mechanics simulator modeling spacecraft motion around Earth using two-body dynamics, numerical ODE integration, orbital parameter analysis, conservation-law validation, and collision detection.
 
-![Orbital Mechanics Simulation](orbit.png)
+![Orbital Mechanics Simulation](satellite_orbit.png)
 
 ## Features
 
